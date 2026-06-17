@@ -1,0 +1,29 @@
+{
+  "RNN": {
+    "best_val_loss": 0.0032396690243144117,
+    "best_epoch": 26,
+    "final_mse": 0.0020181225003735813,
+    "final_mae": 0.029942008150968657,
+    "final_rmse": 0.04492351834366473,
+    "total_train_time": 351.82410764694214,
+    "convergence_epoch": 1
+  },
+  "GRU": {
+    "best_val_loss": 0.0031159925565544754,
+    "best_epoch": 53,
+    "final_mse": 0.002024343925456369,
+    "final_mae": 0.02993632511294826,
+    "final_rmse": 0.0449927096923087,
+    "total_train_time": 1211.623025894165,
+    "convergence_epoch": 1
+  },
+  "LSTM": {
+    "best_val_loss": 0.003239312334645939,
+    "best_epoch": 4,
+    "final_mse": 0.0021308398738917062,
+    "final_mae": 0.03221836273136532,
+    "final_rmse": 0.04616102115304325,
+    "total_train_time": 253.76118779182434,
+    "convergence_epoch": 1
+  }
+}
