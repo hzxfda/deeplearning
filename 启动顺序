@@ -1,6 +1,7 @@
 # 训练北京PM2.5数据集
-python main.py --dataset beijing_pm25 --epochs 100
+python train.py --dataset beijing_pm25 --epochs 100
 
 # 训练加州交通数据集
-python main.py --dataset california_traffic --epochs 100
+python train.py --dataset california_traffic --epochs 100
 
+python app.py
